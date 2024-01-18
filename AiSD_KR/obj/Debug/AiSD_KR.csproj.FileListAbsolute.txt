@@ -1,0 +1,12 @@
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\bin\Debug\AiSD_KR.exe.config
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\bin\Debug\AiSD_KR.exe
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\bin\Debug\AiSD_KR.pdb
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\obj\Debug\AiSD_KR.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\obj\Debug\AiSD_KR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\obj\Debug\AiSD_KR.MainForm.resources
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\obj\Debug\AiSD_KR.Properties.Resources.resources
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\obj\Debug\AiSD_KR.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\obj\Debug\AiSD_KR.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\obj\Debug\AiSD_KR.exe
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\obj\Debug\AiSD_KR.pdb
+C:\Users\Владимир\source\repos\AiSD_KR\AiSD_KR\obj\Debug\AiSD_KR.CalcForm.resources
