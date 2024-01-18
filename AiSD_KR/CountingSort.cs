@@ -4,10 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/* asdasdasd
- * asdasd
- * asdasdas
- * dasdasd*/
 namespace AiSD_KR
 {
     internal class Counting_Sort
